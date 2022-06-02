@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ToDoList.iml" filepath="$PROJECT_DIR$/.idea/modules/ToDoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-223592190/ToDoList.@react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-223592190/ToDoList.@react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ToDoList.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ToDoList.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1607766874/ToDoList.appcenter.iml" filepath="$PROJECT_DIR$/.idea/modules/1607766874/ToDoList.appcenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-263006253/ToDoList.appcenter-analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-263006253/ToDoList.appcenter-analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/393131810/ToDoList.appcenter-crashes.iml" filepath="$PROJECT_DIR$/.idea/modules/393131810/ToDoList.appcenter-crashes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1632403328/ToDoList.react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/1632403328/ToDoList.react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-223592190/ToDoList.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-223592190/ToDoList.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2039719466/ToDoList.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-2039719466/ToDoList.react-native-svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1689064862/ToDoList.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1689064862/ToDoList.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1129603317/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1129603317/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
